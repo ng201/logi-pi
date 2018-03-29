@@ -2,7 +2,7 @@
 
 Basic verilog project to affect the behavior of the LOGI Pi using the shared GPIO pin. Note that the GPIO pin 13 is shared between the two board, whose BCM code is 27:
 
-![RPi ppinout](pinout.jpg)
+![RPi ppinout](pinout.jpg?s=100)
 
 # Instructions
 
