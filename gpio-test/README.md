@@ -1,6 +1,8 @@
 # GPIO-TEST
 
-Basic verilog project to affect the behavior of the LOGI Pi with the value GPIO pin shared between the RPi and LOGI Pi. 
+Basic verilog project to affect the behavior of the LOGI Pi using the shared GPIO pin. Note that the GPIO pin 13 is shared between the two board, whose BCM code is 27:
+
+![RPi ppinout](pinout.jpg)
 
 # Instructions
 
