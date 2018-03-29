@@ -2,7 +2,7 @@
 
 Basic verilog project to affect the behavior of the LOGI Pi with the value GPIO pin shared between the RPi and LOGI Pi. 
 
-# Instruction
+# Instructions
 
 1. Create a new project in Xilinx ISE. Add all the verilog files to the project and create the bitfile.
 2. Load the generated bitstream with the *logi_loader*.
