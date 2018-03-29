@@ -18,6 +18,6 @@ NET "LED<1>"        LOC = "P104" | IOSTANDARD = LVTTL;		#SHARED WITH ARD_D7
 NET "OSC_FPGA"      LOC = "P85" | IOSTANDARD = LVTTL;
 
 ##### Buttons #####
-#NET "PB<0>"         LOC = "P101" | IOSTANDARD = LVTTL;
-#NET "PB<1>"         LOC = "P102" | IOSTANDARD = LVTTL;
+NET "PB<0>"         LOC = "P101" | IOSTANDARD = LVTTL;
+NET "PB<1>"         LOC = "P102" | IOSTANDARD = LVTTL;
 
